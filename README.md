@@ -14,3 +14,7 @@
     - Pi-apps
         - Visual Studio Code 설치
         - Github Desktop 설치 및 설정
+    - Visual Studio Code
+        - Python 플러그인
+    - 리눅스 기본
+        - 리눅스 명령어 ( 대표 20여가지 )
