@@ -33,4 +33,34 @@
             - sudo mysql -u root ==> grant all privileges on *.* to 'root'@'%' identified by '12345'; ==> use mysql;
     - Flask 기본
 
+## 4일차
+- 라즈베리파이 학습
+    - pyQt5 설치
+    - QtDesigner 설치 및 실행확인
+    - 하드웨어 제어 - GPIO
+        - LED / RGB LED 출력
+
+## 5일차
+- 라즈베리파이 학습
+    - 네트워크 셋팅(VNC)
+    - RGB LED / Button 클릭
+
+## 6일차
+- 라즈베리파이 학습
+    - MQTT 통신
+        - AQTTBroker IP, port 설정, 계정설정(옵션)
+        - RPi <---> WPF
+        - RPi 온습도 센서값 MQTT 전송
+        - WPF 모터, LED 제어값 전송
+        - RPi Python paho-mqtt 패키지
+        - WPF C# M2Mqtt 패키지
+
+
+
+WPF 모니터링, 컨트롤화면
+
+
+
+라즈베리파이 테스트 결과
+
         - Web Server 프로그래밍
